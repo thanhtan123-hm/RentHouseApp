@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "450381837508",
+    "project_id": "post-room-house-rent",
+    "storage_bucket": "post-room-house-rent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450381837508:android:a0eee3034c71ee10ae8591",
+        "android_client_info": {
+          "package_name": "com.example.post_house_rent_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450381837508-eeg7bn2ckbff6eoemm39bepakgpaddbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.post_house_rent_app",
+            "certificate_hash": "d289fb84b010455b3b1314d678532096b55633a0"
+          }
+        },
+        {
+          "client_id": "450381837508-dkhb4tkdofdhiajb2h450nd0it5nu3oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZgvD5Lm6J4h_-ZtR6cSZeQ_aJ4tXWSB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450381837508-dkhb4tkdofdhiajb2h450nd0it5nu3oc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450381837508-aj0v9fvkjhg77robv8gm58ubulagd354.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dacnttProject",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
